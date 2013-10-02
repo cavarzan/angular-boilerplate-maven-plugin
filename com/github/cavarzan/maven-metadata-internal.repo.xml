@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>AngularJS NG-Boilerplate Maven Plugin</name>
+      <prefix>maven-angular-boilerplate-plugin</prefix>
+      <artifactId>angular-boilerplate-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
